@@ -8,4 +8,8 @@
 - 😄 Profile website: [etinaude.dev](etinaude.dev)
 - ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones.
 - 👨‍💻 I'm currently studying BAdvSci(hons) in computer science at the university of auckland
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=etinaude&show_icons=true&theme=cobalt)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=etinaude&show_icons=true&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/etinaude/github-readme-stats)
