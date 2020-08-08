@@ -1,7 +1,6 @@
 # Etienne Naude
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![Generic badge](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)]()
 
 [![Generic badge](https://img.shields.io/badge/Email-etinaude@gmail.com-red.svg?style=flat-square)](mailto:etinaude@gmail.com)
 [![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev)
