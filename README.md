@@ -6,6 +6,15 @@
 [![Generic badge](https://img.shields.io/badge/Email-etinaude@gmail.com-red.svg?style=flat-square)](mailto:etinaude@gmail.com)
 [![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev)
 
+<img align="left" alt="JS" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+<img align="left" alt="HTML5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+<img align="left" alt="CSS" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
+<img align="left" alt="Netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />
+
+<br><br><br>
 
 - 🔭 I’m currently working on many projects, such as my decimal clock
 - 🌱 I’m currently learning TypeScript and C
@@ -16,3 +25,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=etinaude&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
+
