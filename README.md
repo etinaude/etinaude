@@ -24,6 +24,6 @@
 - 👨‍💻 I'm currently studying BAdvSci(hons) in computer science at the University of Auckland
 - 🤖 I am also working as a Creative Technologist at Unleash Space
 
-![github stats](https://github-readme-stats.vercel.app/api?username=etinaude&show_icons=true&theme=buefy)
+![github stats](https://github-readme-stats.vercel.app/api?username=etinaude&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&line_height=25&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
 
