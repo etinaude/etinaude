@@ -16,11 +16,11 @@
 
 <br><br><br>
 
-- 🔭 I’m currently working on many projects, such as my decimal clock
+- ⏳  I’m currently working on many projects, such as my decimal clock
 - 🌱 I’m currently learning TypeScript and C
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on a range of projects I find interesting
 - 🤔 I’m looking for help with my rubicks cube solver
-- ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones.
+- ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones
 - 👨‍💻 I'm currently studying BAdvSci(hons) in computer science at the University of Auckland
 - 🤖 I am also working as a Creative Technologist at Unleash Space
 
