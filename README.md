@@ -1,7 +1,5 @@
 # Etienne Naude
 
-[![Generic badge](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
 [![Generic badge](https://img.shields.io/badge/Email-etinaude@gmail.com-red.svg?style=flat-square)](mailto:etinaude@gmail.com)
 [![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev)
 
