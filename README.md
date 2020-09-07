@@ -23,6 +23,5 @@
 - 🤖 I am also working as a Creative Technologist at Unleash Space
 - For more information about me please visit my website [**etinaude.dev**](https://www.etinaude.dev)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=etinaude&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&line_height=25&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
 
