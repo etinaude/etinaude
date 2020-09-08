@@ -11,12 +11,13 @@
 <img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
 <img align="left" alt="Netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />
 <img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />
+<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/linux-tux.svg" />
 
 <br><br><br>
 
 - ⏳  I’m currently working on many projects, such as my decimal clock
 - 🌱 I’m currently learning TypeScript and C
-- 👯 I’m looking to collaborate on a range of projects I find interesting
+- 👯 I’m always looking to collaborate on new interesting projects
 - 🤔 I’m looking for help with my [rubix cube solver](https://github.com/etinaude/cube) and my [wiki game solver](https://github.com/etinaude/Wiki-game)
 - ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones
 - 👨‍💻 I'm currently studying BAdvSci(hons) in computer science at the University of Auckland
