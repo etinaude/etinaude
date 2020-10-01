@@ -3,6 +3,8 @@
 [![Generic badge](https://img.shields.io/badge/Email-etinaude@gmail.com-red.svg?style=flat-square)](mailto:etinaude@gmail.com)
 [![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev)
 
+<img src="http://207.148.83.171/tracker/api/v1/openimage/idgithub">
+
 ### Proficiencies
 <img align="left" alt="JS" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="HTML5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
@@ -27,4 +29,4 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
 -->
-<img src="http://207.148.83.171/tracker/api/v1/openimage/id1601457285556">
+
