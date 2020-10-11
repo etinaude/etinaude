@@ -1,21 +1,20 @@
 # Etienne Naude
 
 [![Generic badge](https://img.shields.io/badge/Email-etinaude@gmail.com-red.svg?style=flat-square)](mailto:etinaude@gmail.com)
-[![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev)
-
+[![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev) 
 <img src="http://207.148.83.171/tracker/api/v1/openimage/idgithub">
 
 ### Proficiencies
-<img align="left" alt="JS" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-<img align="left" alt="HTML5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
-<img align="left" alt="CSS" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
-<img align="left" alt="Netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />
-<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />
-<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/linux-tux.svg" />
+[<img align="left" alt="JS" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />](http://etinaude.dev)
+[<img align="left" alt="HTML5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />](http://etinaude.dev)
+[<img align="left" alt="CSS" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />](http://etinaude.dev)
+[<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](http://etinaude.dev)
+[<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />](http://etinaude.dev)
+[<img align="left" alt="Netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />](http://etinaude.dev)
+[<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />](http://etinaude.dev)
+[<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/linux-tux.svg" />](http://etinaude.dev)
 
-<br><br><br>
+<br><br><br><br>
 
 - ⏳  I’m currently working on many projects, such as my decimal clock
 - 🌱 I’m currently learning TypeScript and C
@@ -24,7 +23,7 @@
 - ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones
 - 👨‍💻 I'm currently studying BAdvSci(hons) in computer science at the University of Auckland
 - 🤖 I am also working as a Creative Technologist at Unleash Space
-- For more information about me please visit my website [**etinaude.dev**](https://www.etinaude.dev)
+- 🖥️ For more information about me please visit my website [**etinaude.dev**](https://www.etinaude.dev)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
