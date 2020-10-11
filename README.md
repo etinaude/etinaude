@@ -8,13 +8,14 @@
 [<img align="left" alt="JS" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />](http://etinaude.dev)
 [<img align="left" alt="HTML5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />](http://etinaude.dev)
 [<img align="left" alt="CSS" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />](http://etinaude.dev)
+[<img align="left" alt="Node" height="50px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](http://etinaude.dev)
 [<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](http://etinaude.dev)
 [<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />](http://etinaude.dev)
 [<img align="left" alt="Netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />](http://etinaude.dev)
 [<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />](http://etinaude.dev)
 [<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/linux-tux.svg" />](http://etinaude.dev)
 
-<br><br><br><br>
+<br><br><br>
 
 - ⏳  I’m currently working on many projects, such as my decimal clock
 - 🌱 I’m currently learning TypeScript and C
@@ -28,4 +29,3 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
 -->
-
