@@ -6,7 +6,7 @@
 
 ### Proficiencies
 [<img align="left" alt="TS" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://github.com/natisha99/9spokes)
-[<img align="left" alt="JS" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](http://etinaude.dev)
+[<img align="left" alt="JS" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://github.com/natisha99/9spokes)
 [<img align="left" alt="Node" height="50px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](https://github.com/etinaude/tracker)
 [<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://github.com/etinaude/)
 [<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />](https://github.com/etinaude/python-sorting-algorithms)
