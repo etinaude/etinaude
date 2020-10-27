@@ -21,7 +21,7 @@
 <br><br><br>
 
 - ⏳  I’m currently working on many projects, such as my decimal clock
-- 🌱 I’m currently learning C
+<!--- 🌱 I’m currently learning C-->
 - 👯 I’m always looking to collaborate on new interesting projects
 - 🤔 I’m looking for help with my [rubix cube solver](https://github.com/etinaude/cube) and my [wiki game solver](https://github.com/etinaude/Wiki-game)
 - ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones
