@@ -27,7 +27,7 @@
 - 👨‍💻 I'm currently studying BAdvSci(hons) in computer science at the University of Auckland
 - 🌱 I’m currently learning React
 - 🤖 I am also working as a Creative Technologist at Unleash Space
-- 🖥️ For more information about me please visit my website [**etinaude.dev**](https://www.etinaude.dev)
+- 🖥️ For more information about me please visit my website [**etinaude.dev**](https://etinaude.dev)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
