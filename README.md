@@ -8,12 +8,12 @@
 
 [<img align="left" alt="Ionic" height="50px" src="https://cdn.svgporn.com/logos/ionic-icon.svg" />](https://github.com/etinaude)
 [<img align="left" alt="Angular" height="50px" src="https://cdn.svgporn.com/logos/angular-icon.svg" />](https://github.com/etinaude)
-[<img align="left" alt="TS" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://github.com/natisha99/9spokes)
+[<img align="left" alt="TS" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://github.com/natisha99/9spokes)
 [<img align="left" alt="Node" height="50px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](https://github.com/etinaude/tracker)
-[<img align="left" alt="Ardiuno" height="50px" src="https://cdn.svgporn.com/logos/linux-tux.svg" />](https://github.com/etinaude/Decimal-Clock)
 [<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />](https://github.com/etinaude/python-sorting-algorithms)
 [<img align="left" alt="sass" height="50px" src="https://cdn.svgporn.com/logos/sass.svg" />](https://github.com/etinaude/)
 [<img align="left" alt="C#" height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />](https://github.com/etinaude/)
+[<img align="left" alt="ardiuno" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />](http://etinaude.dev)
 
 
 
@@ -27,7 +27,7 @@
 [<img align="left" alt="nginx" height="50px" src="https://cdn.svgporn.com/logos/nginx.svg" />](http://etinaude.dev)
 [<img align="left" alt="pi" height="50px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg" />](http://etinaude.dev)
 [<img align="left" alt="Cloudianry" height="50px" src="https://cdn.svgporn.com/logos/cloudinary.svg" />](http://etinaude.dev)
-[<img align="left" alt="Linux" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />](http://etinaude.dev)
+[<img align="left" alt="linux" height="50px" src="https://cdn.svgporn.com/logos/linux-tux.svg" />](https://github.com/etinaude/Decimal-Clock)
 [<img align="left" alt="VSC" height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](http://etinaude.dev)
 [<img align="left" alt="play" height="50px" src="https://cdn.svgporn.com/logos/google-play-icon.svg" />](http://etinaude.dev)
 
