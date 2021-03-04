@@ -1,6 +1,6 @@
 # Etienne Naude
 
-[![Generic badge](https://img.shields.io/badge/Email-etinaude@gmail.com-red.svg?style=flat-square)](mailto:etinaude@gmail.com)
+[![Generic badge](https://img.shields.io/badge/Email-dev@etinaude.dev-red.svg?style=flat-square)](mailto:dev@etinaude.dev)
 [![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev) 
 
 
