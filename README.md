@@ -38,7 +38,7 @@
 - 👯 I’m always looking to collaborate on new interesting projects
 - 🤔 I’m looking for help with my [rubix cube solver](https://github.com/etinaude/cube) and my [wiki game solver](https://github.com/etinaude/Wiki-game)
 - ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones
-- 👨‍💻 I'm currently studying BAdvSci(hons) in computer science at the University of Auckland
+- 👨‍💻 I'm currently studying BAdvSci(hons) in computer science and BDes focusing on UX and product design at the University of Auckland
 - 🌱 I’m currently learning React
 - 🤖 I am also working as a Creative Technologist at Unleash Space
 - 🖥️ For more information about me please visit my website [**etinaude.dev**](https://etinaude.dev)
