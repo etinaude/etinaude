@@ -2,6 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Email-dev@etinaude.dev-red.svg?style=flat-square)](mailto:dev@etinaude.dev)
 [![Generic badge](https://img.shields.io/badge/Portfolio-etinaude.dev-blueviolet.svg?style=flat-square)](https://www.etinaude.dev) 
+[![Generic badge](https://img.shields.io/badge/LinkedIn-etinaude-blue.svg?style=flat-square)](https://www.linkedin.com/in/etinaude/) 
 
 
 ### Languages
@@ -34,15 +35,18 @@
 
 <br><br><br>
 
-- ⏳  I’m currently working on many projects, such as my decimal clock
+- ⏳  I’m currently working on many projects, such as my [decimal clock](https://github.com/etinaude/Decimal-Clock) and my [sand table](https://github.com/etinaude/sandtable)
 - 👯 I’m always looking to collaborate on new interesting projects
 - 🤔 I’m looking for help with my [rubix cube solver](https://github.com/etinaude/cube) and my [wiki game solver](https://github.com/etinaude/Wiki-game)
-- ⚡ Fun fact: I have many hobbies and I'm always trying to learn more about new ones
+- ⚡ Fun fact: I have many hobbies and such as wood working, electronics and making odd things!
 - 👨‍💻 I'm currently studying BAdvSci(hons) in computer science and BDes focusing on UX and product design at the University of Auckland
-- 🌱 I’m currently learning React
-- 🤖 I am also working as a Creative Technologist at Unleash Space
+- 🤖 I am also [working as a Creative Technologist at Unleash Space and a Software Developer at the University of Auckland](https://www.linkedin.com/in/etinaude/)
 - 🖥️ For more information about me please visit my website [**etinaude.dev**](https://etinaude.dev)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etinaude&layout=compact)](https://github.com/etinaude/github-readme-stats)
--->
+### Project Images
+
+![](https://res.cloudinary.com/etienne-naude/image/upload/v1596333160/BfCompImg.png) | ![](https://res.cloudinary.com/etienne-naude/image/upload/v1624939827/sandtableImg.jpg)
+-|-
+![](https://res.cloudinary.com/etienne-naude/image/upload/v1647166523/zonaImg.png) | ![](https://res.cloudinary.com/etienne-naude/image/upload/v1647166699/enrolImg.png)
+
+
