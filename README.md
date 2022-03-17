@@ -45,8 +45,8 @@
 
 ### Project Images
 
-![](https://res.cloudinary.com/etienne-naude/image/upload/v1596333160/BfCompImg.png) | ![](https://res.cloudinary.com/etienne-naude/image/upload/v1624939827/sandtableImg.jpg)
+![](https://res.cloudinary.com/etienne-naude/image/upload/v1596333160/BfCompImg.png) | ![](https://res.cloudinary.com/etienne-naude/image/upload/v1624939827/portfolio/sandtableImg.jpg)
 -|-
-![](https://res.cloudinary.com/etienne-naude/image/upload/v1647166523/zonaImg.png) | ![](https://res.cloudinary.com/etienne-naude/image/upload/v1647166699/enrolImg.png)
+![](https://res.cloudinary.com/etienne-naude/image/upload/v1647166523/portfolio/zonaImg.png) | ![](https://res.cloudinary.com/etienne-naude/image/upload/v1647166699/enrolImg.png)
 
 
