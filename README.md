@@ -5,28 +5,28 @@
 
 <img width="15px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"> Linkedin: [etinaude](https://www.linkedin.com/in/etinaude/) 
 
-<img width="15px" src="https://etinaude.dev/assets/icons/icon.svg"> Portfolio: [etinaude.dev](https://etinaude.dev/) 
+<img width="15px" src="https://d33wubrfki0l68.cloudfront.net/37daadf614d6a21cbe615a148d556cc5677b1bea/a25ed/icon.svg"> Portfolio: [etinaude.dev](https://etinaude.dev/) 
 
 
-## 🎓 Studying 
+## 🎓 Study 
 I'm currently studying BAdvSci(hons) in Computer Science and BDes focusing on UX and product design at the University of Auckland. My hounors project is working on Additive Manufaturing.
 
 
-<div style="diplay:flex;">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1655021199/logos/engineering.png">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1655021200/logos/science.png">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1655021200/logos/cai.jpg">
+<div style="diplay:flex">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/science_qxklbd.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592569/logos/cai_a3qplk.webp">
 </div>
 
-## 💼 Working
+## 💼 Work
 
 I work as a web/mobile developer for the faculty of medical health science, a reasearch assistant for mechatonics egineering - focussing on education robotics, a creative technologist at Unleash Space working with disruptive technologies, and a developer and designer at Kekeno Tech.
 
 <div style="diplay:flex">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1655021199/logos/engineering.png">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1655021200/logos/fmhs.jpg">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1655021200/logos/unleash.png">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1655021200/logos/kekeno.jpg">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/fmhs_h8upx2.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/unleash_zkdz7d.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/kekeno_rbrnha.webp">
 </div>
 
 
@@ -41,6 +41,10 @@ I work as a web/mobile developer for the faculty of medical health science, a re
 [<img align="left" alt="C#" height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />](https://github.com/etinaude/)
 [<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />](https://github.com/etinaude/python-sorting-algorithms)
 [<img align="left" alt="ardiuno" height="50px" src="https://cdn.svgporn.com/logos/arduino.svg" />](http://etinaude.dev)
+[<img align="left" alt="ardiuno" height="50px" src="https://cdn.svgporn.com/logos/processing.svg" />](http://etinaude.dev)
+[<img align="left" alt="ardiuno" height="50px" src="https://cdn.svgporn.com/logos/svelte-icon.svg" />](http://etinaude.dev)
+
+
 
 <br><br><br>
 
@@ -50,10 +54,17 @@ I work as a web/mobile developer for the faculty of medical health science, a re
 I'm currently working on a range of projects from improving non-planar 3d printing to webapp development and mobile developement.
 
 <div style="diplay:flex">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/v1596333160/BfCompImg.png">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/ar_1:1,c_fill,g_auto/v1614932128/portfolio/zonaImg.png">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/v1624936315/portfolio/enrolmentImg.png">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/v1647521355/portfolio/headstrongImg.png">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/keyboard_ofncxy.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/decimalClockImg_ow2sp5.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/zonaImg_updhe6.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/non-planar_ohqgvy.webp">
+</div>
+
+<div style="diplay:flex">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/armImg_hpusqb.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/headstrongImg_wv4vdq.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/enrolmentImg_p1fvip.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/unleashAppImg_ws1fv5.webp">
 </div>
 
 ## ⚽ Hobbies
@@ -61,8 +72,8 @@ I'm currently working on a range of projects from improving non-planar 3d printi
 Outside of coding I have a range of other hobbies, including woodworking, robotics, making odd things and caving.
 
 <div style="diplay:flex">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/ar_1:1,c_fill,g_auto/v1624939827/portfolio/sandtableImg.jpg">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/ar_1:1,c_fill,g_auto/v1624939565/portfolio/armImg.png">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/ar_1:1,c_fill,g_auto/v1655020796/shirt.jpg">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/ar_1:1,c_fill,g_auto/v1655020796/cave.jpg">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/chess_tnp8sj.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/sandtableImg_yoikqb.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/shirt_ruli1f.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/cave_qbdsav.webp">
 </div>
