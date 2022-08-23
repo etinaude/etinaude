@@ -9,7 +9,7 @@
 
 
 ## 🎓 Study 
-I'm currently studying BAdvSci(hons) in Computer Science and BDes focusing on UX and product design at the University of Auckland. My hounors project is working on Additive Manufaturing.
+I'm currently studying BAdvSci(Hons) in Computer Science and BDes, focusing on UX and product design at the University of Auckland. My honours project is working on Additive Manufacturing.
 
 
 <div style="diplay:flex">
@@ -20,7 +20,7 @@ I'm currently studying BAdvSci(hons) in Computer Science and BDes focusing on UX
 
 ## 💼 Work
 
-I work as a web/mobile developer for the faculty of medical health science, a reasearch assistant for mechatonics egineering - focussing on education robotics, a creative technologist at Unleash Space working with disruptive technologies, and a developer and designer at Kekeno Tech.
+I work as a web/mobile developer for the faculty of medical health science, a research assistant for mechatronics engineering - focussing on education robotics, a creative technologist at Unleash Space working with disruptive technologies, and a developer and designer at Kekeno Tech.
 
 <div style="diplay:flex">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
@@ -51,7 +51,7 @@ I work as a web/mobile developer for the faculty of medical health science, a re
 
 ## 🔩 Projects
 
-I'm currently working on a range of projects from improving non-planar 3d printing to webapp development and mobile developement.
+I'm currently working on a range of projects, from improving non-planar 3d printing to webapp development and mobile development.
 
 <div style="diplay:flex">
   <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/keyboard_ofncxy.webp">
@@ -69,7 +69,7 @@ I'm currently working on a range of projects from improving non-planar 3d printi
 
 ## ⚽ Hobbies
 
-Outside of coding I have a range of other hobbies, including woodworking, robotics, making odd things and caving.
+Outside of coding, I have a range of other hobbies, including woodworking, robotics, making odd things and caving.
 
 <div style="diplay:flex">
   <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/chess_tnp8sj.webp">
