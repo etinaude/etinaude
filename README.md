@@ -16,17 +16,19 @@ I'm currently studying BAdvSci(Hons) in Computer Science and BDes, focusing on U
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/science_qxklbd.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592569/logos/cai_a3qplk.webp">
+
 </div>
 
 ## 💼 Work
 
-I work as a web/mobile developer for the faculty of medical health science, a research assistant for mechatronics engineering - focussing on education robotics, a creative technologist at Unleash Space working with disruptive technologies, and a developer and designer at Kekeno Tech.
+I work as a web/mobile developer for the faculty of medical health science, a research assistant for mechatronics engineering - focussing on education robotics, a creative technologist at Unleash Space working with disruptive technologies, and a developer and designer at Kekeno Tech. And a software engineer for Halter.
 
 <div style="diplay:flex">
+   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/kekeno_rbrnha.webp">
+   <img width="100px" src="http://static1.squarespace.com/static/5dc87d84ae24ef5336ba523d/t/612d4cefc44e8547bc6e12e9/1575946434822/Halter+Logo.jpg?format=150w">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/fmhs_h8upx2.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/unleash_zkdz7d.webp">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/kekeno_rbrnha.webp">
 </div>
 
 
