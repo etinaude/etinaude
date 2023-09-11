@@ -1,12 +1,7 @@
 # Etienne Naude
 
 ## 👋 Contact
-<img width="15px" src="https://cdn.svgporn.com/logos/google-gmail.svg" > Email: [eti@naude.dev](mailto:eti@naude.dev)
-
-<img width="15px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"> Linkedin: [etinaude](https://www.linkedin.com/in/etinaude/) 
-
-<img width="15px" src="https://d33wubrfki0l68.cloudfront.net/37daadf614d6a21cbe615a148d556cc5677b1bea/a25ed/icon.svg"> Portfolio: [etinaude.dev](https://etinaude.dev/) 
-
+ [https://etinaude.dev/contact](https://etinaude.dev/contact)
 
 ## 🎓 Study 
 I'm currently studying BAdvSci(Hons) in Computer Science and BDes, focusing on UX and product design at the University of Auckland. My honours project is working on Additive Manufacturing.
