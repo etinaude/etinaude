@@ -1,29 +1,28 @@
 # Etienne Naude
 
-## 👋 Contact
- [https://etinaude.dev/contact](https://etinaude.dev/contact)
+## 👋 Contact Me - [etinaude.dev/contact](https://etinaude.dev/contact)
 
 ## 🎓 Study 
-I'm currently studying BAdvSci(Hons) in Computer Science and BDes, focusing on UX and product design at the University of Auckland. My honours project is working on Additive Manufacturing.
+I'm currently Innovation Design Engineering at Imperial College London and The Royal College of Arts. Previously, I studied Computer Science at the University of Auckland. My honours project is working on Additive Manufacturing.
 
 
 <div style="diplay:flex">
+  <img width="100px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-aa70a.appspot.com/o/logos%2Fimperial.webp?alt=media">
+  <img width="100px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-aa70a.appspot.com/o/logos%2Frca.webp?alt=media">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/science_qxklbd.webp">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592569/logos/cai_a3qplk.webp">
-
 </div>
 
 ## 💼 Work
 
-I work as a web/mobile developer for the faculty of medical health science, a research assistant for mechatronics engineering - focussing on education robotics, a creative technologist at Unleash Space working with disruptive technologies, and a developer and designer at Kekeno Tech. And a software engineer for Halter.
+I am the Maker Space Coordinator at Unleash Space and a developer for Kekeno. Previously, I worked as a web/mobile developer for the Faculty of Medical Health Science, a research assistant for mechatronics engineering - focussing on education robotics, and a software engineer for Halter.
 
 <div style="diplay:flex">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/unleash_zkdz7d.webp">
    <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/kekeno_rbrnha.webp">
    <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/v1668890313/logos/halter_ujbpil.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/fmhs_h8upx2.webp">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/unleash_zkdz7d.webp">
 </div>
 
 
@@ -46,7 +45,7 @@ I work as a web/mobile developer for the faculty of medical health science, a re
 <br><br><br>
 
 
-## 🔩 Projects
+## 🔩 Projects - [etinaude.dev/contact](https://etinaude.dev/projects)
 
 I'm currently working on a range of projects, from improving non-planar 3d printing to webapp development and mobile development.
 
