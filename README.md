@@ -45,7 +45,7 @@ I am the Maker Space Coordinator at Unleash Space and a developer for Kekeno. Pr
 <br><br><br>
 
 
-## 🔩 Projects - [etinaude.dev/contact](https://etinaude.dev/projects)
+## 🔩 Projects - [etinaude.dev/projects](https://etinaude.dev/projects)
 
 I'm currently working on a range of projects, from improving non-planar 3d printing to webapp development and mobile development.
 
