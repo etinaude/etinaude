@@ -3,7 +3,7 @@
 ## 👋 Contact Me - [etinaude.dev/contact](https://etinaude.dev/contact)
 
 ## 🎓 Study 
-I'm currently Innovation Design Engineering at Imperial College London and The Royal College of Arts. Previously, I studied Computer Science at the University of Auckland. My honours project is working on Additive Manufacturing.
+I'm currently studying Innovation Design Engineering at Imperial College London and The Royal College of Art. Previously, I studied Computer Science at the University of Auckland. My honours project was working on additive manufacturing.
 
 
 <div style="diplay:flex">
