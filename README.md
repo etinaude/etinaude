@@ -3,7 +3,7 @@
 ## 👋 Contact Me - [etinaude.dev/contact](https://etinaude.dev/contact)
 
 ## 🎓 Study 
-I'm currently studying Innovation Design Engineering at Imperial College London and The Royal College of Art. Previously, I studied Computer Science at the University of Auckland. My honours project was working on additive manufacturing.
+I'm currently studying Design Engineering at Imperial College London and The Royal College of Art. Previously, I studied Computer Science at the University of Auckland. My honours project was working on additive manufacturing.
 
 
 <div style="diplay:flex">
@@ -15,9 +15,10 @@ I'm currently studying Innovation Design Engineering at Imperial College London 
 
 ## 💼 Work
 
-I am the Maker Space Coordinator at Unleash Space and a developer for Kekeno. Previously, I worked as a web/mobile developer for the Faculty of Medical Health Science, a research assistant for mechatronics engineering - focussing on education robotics, and a software engineer for Halter.
+I'm an engineer at Kaikaku AI, and previously I was the Maker Space Coordinator at Unleash Space and a developer for Kekeno. Additionally, I worked as a web/mobile developer for the Faculty of Medical Health Science, a research assistant for mechatronics engineering - focussing on education robotics, and a software engineer for Halter.
 
 <div style="diplay:flex">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1723054789/kaikaku_ai_logo_btd2v5.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/unleash_zkdz7d.webp">
    <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/kekeno_rbrnha.webp">
    <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/v1668890313/logos/halter_ujbpil.webp">
