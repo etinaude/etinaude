@@ -1,6 +1,6 @@
 # Etienne Naude
 
-## 👋 Contact Me - [etinaude.dev/contact](https://etinaude.dev/contact)
+**👋 Contact Me - [etinaude.dev/contact](https://etinaude.dev/contact)**
 
 ## 🎓 Study 
 I'm currently studying Design Engineering at Imperial College London and The Royal College of Art. Previously, I studied Computer Science at the University of Auckland. My honours project was working on additive manufacturing.
@@ -15,7 +15,7 @@ I'm currently studying Design Engineering at Imperial College London and The Roy
 
 ## 💼 Work
 
-I'm an engineer at Kaikaku AI, and previously I was the Maker Space Coordinator at Unleash Space and a developer for Kekeno. Additionally, I worked as a web/mobile developer for the Faculty of Medical Health Science, a research assistant for mechatronics engineering - focussing on education robotics, and a software engineer for Halter.
+I have a range of working experince including robotic engineering at Kaikaku AI, software development at FMHS, running a makerspace and doing robotics research athth University of Auckland
 
 <div style="diplay:flex">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1723054789/kaikaku_ai_logo_btd2v5.webp">
@@ -27,7 +27,7 @@ I'm an engineer at Kaikaku AI, and previously I was the Maker Space Coordinator 
 </div>
 
 
-
+<!--
 ## 💻 Languages
 
 [<img align="left" alt="Ionic" height="50px" src="https://cdn.svgporn.com/logos/ionic-icon.svg" />](https://github.com/etinaude)
@@ -41,32 +41,32 @@ I'm an engineer at Kaikaku AI, and previously I was the Maker Space Coordinator 
 [<img align="left" alt="ardiuno" height="50px" src="https://cdn.svgporn.com/logos/processing.svg" />](http://etinaude.dev)
 [<img align="left" alt="ardiuno" height="50px" src="https://cdn.svgporn.com/logos/svelte-icon.svg" />](http://etinaude.dev)
 
-
-
 <br><br><br>
+
+-->
 
 
 ## 🔩 Projects - [etinaude.dev/projects](https://etinaude.dev/projects)
 
-I'm currently working on a range of projects, from improving non-planar 3d printing to webapp development and mobile development.
+I'm currently working on a range of tech projects, from developing a lock-picking robot to inventing a new method in 3D printing to software development.
 
 <div style="diplay:flex">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/keyboard_ofncxy.webp">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/decimalClockImg_ow2sp5.webp">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/zonaImg_updhe6.webp">
+  <img width="24%" src="./lock.png">
+  <img width="24%" src="./Screenshot_20250404_125950.png">
+  <img width="24%" src="./sauce.png">
   <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/non-planar_ohqgvy.webp">
 </div>
 
 <div style="diplay:flex">
+  <img width="24%" src="./marx.png">
+  <img width="24%" src="./rover.png">
   <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/armImg_hpusqb.webp">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/headstrongImg_wv4vdq.webp">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/enrolmentImg_p1fvip.webp">
-  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/unleashAppImg_ws1fv5.webp">
+  <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/keyboard_ofncxy.webp">
 </div>
 
 ## ⚽ Hobbies
 
-Outside of coding, I have a range of other hobbies, including woodworking, robotics, making odd things and caving.
+Outside of robotics and coding, I have a range of other hobbies, including woodworking, making odd things and caving.
 
 <div style="diplay:flex">
   <img width="24%" src="https://res.cloudinary.com/etienne-naude/image/upload/w_300,ar_1:1,c_fill/v1657442406/projects/chess_tnp8sj.webp">
