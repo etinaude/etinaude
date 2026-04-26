@@ -2,8 +2,22 @@
 
 **👋 Contact Me - [etinaude.dev/contact](https://etinaude.dev/contact)**
 
+## 💼 Work
+
+I am a Mechatronics/ML engineer @ Amphico, working to develop R&D scale machines to rapidly prototype new textile materials. I previously worked as a software developer @ Halter NZ and Kekeno. AS well as running the Unleash Space maker space and leading a team of 15 staff. And working as a robotics engineer @ Kaikaku and the University of Auckland.
+
+<div style="diplay:flex">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1723054789/amphico.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1723054789/kaikaku_ai_logo_btd2v5.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/unleash_zkdz7d.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/kekeno_rbrnha.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/v1668890313/logos/halter_ujbpil.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
+  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/fmhs_h8upx2.webp">
+</div>
+
 ## 🎓 Study 
-I'm currently studying Design Engineering at Imperial College London and The Royal College of Art. Previously, I studied Computer Science at the University of Auckland. My honours project was working on additive manufacturing.
+I have a double Master's degree in Design Engineering from Imperial College London (MSc) and The Royal College of Art (MA). Previously, I studied Advanced Computer Science at the University of Auckland, where I developed a new technique in 3d printing to give 10x the smoother surfaces without any upgrades.
 
 
 <div style="diplay:flex">
@@ -11,19 +25,6 @@ I'm currently studying Design Engineering at Imperial College London and The Roy
   <img width="100px" src="https://firebasestorage.googleapis.com/v0/b/portfolio-aa70a.appspot.com/o/logos%2Frca.webp?alt=media">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/science_qxklbd.webp">
-</div>
-
-## 💼 Work
-
-I have a range of working experince including robotic engineering at Kaikaku AI, software development at FMHS, running a makerspace and doing robotics research athth University of Auckland
-
-<div style="diplay:flex">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1723054789/kaikaku_ai_logo_btd2v5.webp">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/unleash_zkdz7d.webp">
-   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/kekeno_rbrnha.webp">
-   <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/v1668890313/logos/halter_ujbpil.webp">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/engineering_aykfct.webp">
-  <img width="100px" src="https://res.cloudinary.com/etienne-naude/image/upload/w_150/v1656592568/logos/fmhs_h8upx2.webp">
 </div>
 
 
